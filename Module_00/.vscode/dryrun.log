@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/artur/Documents/School 21/C++/Module_00'
+make: Leaving directory `/Users/artur/Documents/School 21/C++/Module_00'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
